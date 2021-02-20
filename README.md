@@ -1,6 +1,9 @@
 # Machine Learning Mindmap / Cheatsheet
 A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
+## URL
+https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
+
 ## Overview
 Machine Learning is a subfield of computer science that gives computers the ability to learn without being explicitly programmed. It explores the study and construction of algorithms that can learn from and make predictions on data.
 
